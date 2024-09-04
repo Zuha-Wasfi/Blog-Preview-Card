@@ -30,7 +30,8 @@ body {
         align-items: flex-start;
         max-width: 24rem;
         padding: 22px 23px 24px 23px;
-        margin: 15px;
+        margin-top: 50%;
+        margin-bottom: 50%;
         background-color: var(--c-white);
         border: 1px solid var(--c-black);
         border-radius: 20px;
